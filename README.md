@@ -44,6 +44,7 @@
             <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a>
+    <img src="https://banner2.cleanpng.com/20180331/xwe/kisspng-redis-in-memory-database-key-value-database-cache-speech-5abf702b946851.6427160015224955316079.jpg" alt="mongodb" width="40" height="40"/>
      <img src="https://www.svgrepo.com/show/374175/vue.svg" alt="vue" width="40" height="40"/> 
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
