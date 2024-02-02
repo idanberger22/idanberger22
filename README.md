@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently works as a full stack developer at <a href="https://www.linkedin.com/company/homeric-entertainment" target="blank">Homeric entertainment </a>
 
-- 📫 How to reach me **idanberger22@gmail.com**
+- 📫 How to reach me : **idanberger22@gmail.com**
 
 - ⚡ Fun fact : I will probably beat you at table tennis.
 
@@ -40,13 +40,7 @@
             alt="javascript" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank"
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>  <a href="https://www.photoshop.com/en" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-            alt="photoshop" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            alt="nodejs" width="40" height="40" /> </a>   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
