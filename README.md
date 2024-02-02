@@ -44,11 +44,12 @@
             <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
     </a>
-    <img src="https://banner2.cleanpng.com/20180331/xwe/kisspng-redis-in-memory-database-key-value-database-cache-speech-5abf702b946851.6427160015224955316079.jpg" alt="mongodb" width="40" height="40"/>
+    <img src="https://w7.pngwing.com/pngs/428/940/png-transparent-logo-redis-redis-icon.png" alt="mongodb" width="40" height="40"/>
      <img src="https://www.svgrepo.com/show/374175/vue.svg" alt="vue" width="40" height="40"/> 
             <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
-            width="40" height="40" /> </a></p>
-
+            width="40" height="40" /> </a>
+            <img src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png" alt="git"
+            </p>
